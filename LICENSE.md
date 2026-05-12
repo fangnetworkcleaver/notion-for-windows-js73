@@ -1,4 +1,4 @@
-# 
+# Enhance Notion for Windows with automatic Plugin for Notion for Windows - markdown-support and search-functionality, the #1 plugin. Includes markdown-support and
 
 
 
